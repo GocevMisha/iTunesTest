@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">iTunesTest</string>
+    <string name="search_hint">Search by album</string>
+
+</resources>
